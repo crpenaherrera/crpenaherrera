@@ -8,7 +8,7 @@ I’m a Quantitative Marine Scientist passionate about shark conservation, marin
 
 ## 🔬 About Me
 - 🎓 PhD in Quantitative Marine Science, University of Tasmania & CSIRO Marine and Atmospheric Research (2012-2016)  
-- 💼 Senior Scientist at [MigraMar](https://migramar.org/) (2002-Present)  
+- 💼 Senior Scientist at [MigraMar](https://migramar.org/) (2002-Present)
 - 🌍 Based in Portoviejo, Manabí, Ecuador  
 
 ---
@@ -85,6 +85,4 @@ I’m a Quantitative Marine Scientist passionate about shark conservation, marin
 
 ---
 
-![Bottom Image](MigraMar_logo_white.jpg)
-
-*“The ocean is a vast highway for migratory species—let’s protect their journey.”*
+*“Impossible things just take a little bit longer.”*
