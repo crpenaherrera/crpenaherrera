@@ -39,9 +39,9 @@ I’m a Quantitative Marine Scientist passionate about shark conservation, marin
 ---
 
 ## 📝 Recent Publications
-- Garcia-Rada, E., et al. (2025). *Climate change implications in the suitable habitat of Olive Ridley turtle Lepidochelys olivacea in the Eastern Tropical Pacific.* Marine Environmental Research 207. [Link](https://doi.org/10.1016/j.marenvres.2025.106xxx)  
-- Mouton, T.L., et al. (2024). *Shortfalls in the protection of Important Shark and Ray Areas undermine shark conservation efforts in the Central and South American Pacific.* Marine Policy 171. [Link](https://doi.org/10.1016/j.marpol.2024.105xxx)  
-- Womersley, F.C., et al. (2024). *Climate-driven global redistribution of an ocean giant predicts increased threat from shipping.* Nature Climate Change. [Link](https://doi.org/10.1038/s41558-024-019xx-x)  
+- Garcia-Rada, E., et al. (2025). *Climate change implications in the suitable habitat of Olive Ridley turtle Lepidochelys olivacea in the Eastern Tropical Pacific.* Marine Environmental Research 207. [Link](https://doi.org/10.1016/j.marenvres.2025.107091)  
+- Mouton, T.L., et al. (2024). *Shortfalls in the protection of Important Shark and Ray Areas undermine shark conservation efforts in the Central and South American Pacific.* Marine Policy 171. [Link](https://doi.org/10.1016/j.marpol.2024.106448)  
+- Womersley, F.C., et al. (2024). *Climate-driven global redistribution of an ocean giant predicts increased threat from shipping.* Nature Climate Change. [Link](https://doi.org/10.1038/s41558-024-02129-5)  
 
 ---
 
@@ -79,7 +79,7 @@ I’m a Quantitative Marine Scientist passionate about shark conservation, marin
 ---
 
 ## 🏆 Honors & Awards
-- **Pontifical Catholic University of Ecuador - Manabí (2019):** Outstanding scientific output and contributions to research.  
+- **Pontifical Catholic University of Ecuador - Manabí (2019):** Recognition for outstanding scientific output and contributions to research.  
 - **Marisla Foundation (2018-2021):** Funding for *Implementation of Swimways in the Mexican Pacific*.  
 - **Halsworth Wildlife Research Endowment (2013-2015):** Funding for *Determining local population size and survival rates of scalloped hammerhead sharks in the Galapagos Marine Reserve*.  
 
