@@ -1,6 +1,6 @@
 ![Profile Image](profile.png)
 
-César R. Peñaherrera-Palma, Ph.D.
+# César R. Peñaherrera-Palma, Ph.D.
 
 I’m a Quantitative Marine Scientist passionate about shark conservation, marine megafauna, and the sustainable management of ocean ecosystems. Welcome to my GitHub, where I share my research projects, publications, and contributions to marine science in the Eastern Tropical Pacific and beyond!
 
@@ -42,6 +42,8 @@ I’m a Quantitative Marine Scientist passionate about shark conservation, marin
 - Garcia-Rada, E., et al. (2025). *Climate change implications in the suitable habitat of Olive Ridley turtle Lepidochelys olivacea in the Eastern Tropical Pacific.* Marine Environmental Research 207. [Link](https://doi.org/10.1016/j.marenvres.2025.107091)  
 - Mouton, T.L., et al. (2024). *Shortfalls in the protection of Important Shark and Ray Areas undermine shark conservation efforts in the Central and South American Pacific.* Marine Policy 171. [Link](https://doi.org/10.1016/j.marpol.2024.106448)  
 - Womersley, F.C., et al. (2024). *Climate-driven global redistribution of an ocean giant predicts increased threat from shipping.* Nature Climate Change. [Link](https://doi.org/10.1038/s41558-024-02129-5)  
+- Chinacalle-Martínez, N., et al. (2024). *Fishing effort dynamics around the Galápagos Marine Reserve as depicted by AIS data.* Plos One 19. [Link](https://doi.org/10.1371/journal.pone.0282374)
+- Zevallos-Rosado, J., et al. (2023). *A comparative analysis of spatiotemporal trends in sea surface temperature in the major marine protected areas of the Eastern Tropical Pacific.* Revista de Biología Marina y Oceanografía 58, 19-31. [Link](https://doi.org/10.22370/rbmo.2023.58.1.4145)
 
 ---
 
