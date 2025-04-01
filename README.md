@@ -14,12 +14,15 @@ I’m a Quantitative Marine Scientist passionate about shark conservation, marin
 ---
 
 ## 🌟 Featured Research Projects
-- **[Broad-Scale Movements of Sharks and Rays](link-to-repo)**  
-  _Evaluating the migratory patterns of sharks and rays across the Eastern Tropical Pacific Ocean._  
+- **[Management and Conservation Priority Areas of the Eastern Tropical Pacific Ocean](link-to-repo)**  
+  _Evaluating the spatial overlay and weighted significance of biological, ecological, and structural features in coastal and oceanic ecosystems._  
   Tech: Satellite telemetry, R, ArcGIS  
 - **[EPICC: Climate Change Impacts on Migratory Species](link-to-repo)**  
   _Assessing the implications of climate change on sharks and other migratory species in the Eastern Tropical Pacific._  
   Tech: Ecological modeling, remote sensing, R  
+- **[Broad-Scale Movements of Sharks and Rays](link-to-repo)**  
+  _Evaluating the migratory patterns of sharks and rays across the Eastern Tropical Pacific Ocean._  
+  Tech: Satellite telemetry, R, ArcGIS  
 - **[Population Dynamics of Marine Megafauna](link-to-repo)**  
   _Studying population dynamics of sharks using 3D stereo-cameras in the Eastern Tropical Pacific._  
   Tech: R, stereo-BRUVS
@@ -81,5 +84,7 @@ I’m a Quantitative Marine Scientist passionate about shark conservation, marin
 - **Halsworth Wildlife Research Endowment (2013-2015):** Funding for *Determining local population size and survival rates of scalloped hammerhead sharks in the Galapagos Marine Reserve*.  
 
 ---
+
+![Bottom Image](MigraMar_logo_white.jpg)
 
 *“The ocean is a vast highway for migratory species—let’s protect their journey.”*
