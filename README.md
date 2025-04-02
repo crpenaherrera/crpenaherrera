@@ -14,9 +14,9 @@ I’m a Quantitative Marine Scientist passionate about shark conservation, marin
 ---
 
 ## 🌟 Featured Research Projects
-- **[Management and Conservation Priority Areas of the Eastern Tropical Pacific Ocean](link-to-repo)**  
+- **[Management and Conservation Priority Areas of the Eastern Tropical Pacific Ocean](https://github.com/cpenaherrera/cpenaherrera/tree/marine-conservation-areas-etpo/marine-conservation-areas-etpo)**  
   _Evaluating the spatial overlay and weighted significance of biological, ecological, and structural features in coastal and oceanic ecosystems._  
-  Tech: Satellite telemetry, R, ArcGIS  
+  Tech: Satellite telemetry, R, QGIS, Fishing by-catch, MAXENT, MARXAN
 - **[EPICC: Climate Change Impacts on Migratory Species](link-to-repo)**  
   _Assessing the implications of climate change on sharks and other migratory species in the Eastern Tropical Pacific._  
   Tech: Ecological modeling, remote sensing, R  
