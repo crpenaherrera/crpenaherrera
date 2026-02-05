@@ -1,4 +1,4 @@
-![Profile Image](profile.png)
+![Profile Image](profile.jpg)
 
 # César R. Peñaherrera-Palma, Ph.D.
 
