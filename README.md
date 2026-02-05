@@ -1,4 +1,4 @@
-![Profile Image](MMR_Logo 01.jpeg)
+![Profile Image](profile.jpeg)
 
 # César R. Peñaherrera-Palma, Ph.D.
 
@@ -39,6 +39,10 @@ I’m a Quantitative Marine Scientist passionate about shark conservation, marin
 ---
 
 ## 📝 Recent Publications
+- Peñaherrera-Palma, C.R., et al. (2025). Reconstructing the spatial and temporal dynamics of Ecuador’s nearshore coastal fisheries from fishers’ perspective. PLOS One. [link](https://doi.org/10.1371/journal.pone.0338495)
+- García-Baciero, A., et al. (2025). Comparing the performance of two scientific tools for obtaining fish length measurements. Marine Biology 172. [link](https://doi.org/10.1007/s00227-025-04682-9)
+- Peñaherrera-Palma, C., et al. (2025). Short-term fluctuations in hammerhead shark numbers at an aggregation site based on visual census and telemetry data. Environmental Biology of Fishes.
+- Sequeira, A.M.M., et al. (2025). Global tracking of marine megafauna space use reveals how to achieve conservation targets. Science 388, 1086-1097. [link](https://doi.org/10.1126/science.adl0239) 
 - Garcia-Rada, E., et al. (2025). *Climate change implications in the suitable habitat of Olive Ridley turtle Lepidochelys olivacea in the Eastern Tropical Pacific.* Marine Environmental Research 207. [Link](https://doi.org/10.1016/j.marenvres.2025.107091)  
 - Mouton, T.L., et al. (2024). *Shortfalls in the protection of Important Shark and Ray Areas undermine shark conservation efforts in the Central and South American Pacific.* Marine Policy 171. [Link](https://doi.org/10.1016/j.marpol.2024.106448)  
 - Womersley, F.C., et al. (2024). *Climate-driven global redistribution of an ocean giant predicts increased threat from shipping.* Nature Climate Change. [Link](https://doi.org/10.1038/s41558-024-02129-5)  
