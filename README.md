@@ -1,4 +1,4 @@
-![Profile Image](profile.jpg)
+![Profile Image](MMR_Logo 01.jpeg)
 
 # César R. Peñaherrera-Palma, Ph.D.
 
