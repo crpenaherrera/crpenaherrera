@@ -8,22 +8,25 @@ I’m a Quantitative Marine Scientist passionate about shark conservation, marin
 
 ## 🔬 About Me
 - 🎓 PhD in Quantitative Marine Science, University of Tasmania & CSIRO Marine and Atmospheric Research (2012-2016)  
-- 💼 Senior Scientist at [MigraMar](https://migramar.org/) (2002-Present)
+- 💼 Senior Scientist and Founding Member at [MigraMar](https://migramar.org/) (2002-Present)
 - 🌍 Based in Portoviejo, Manabí, Ecuador  
 
 ---
 
-## 🌟 Featured Research Projects
+## 🌟 Research Projects
 - **[Management and Conservation Priority Areas of the Eastern Tropical Pacific Ocean](https://github.com/crpenaherrera/crpenaherrera/blob/marine-conservation-areas-etpo/marine-conservation-areas-etpo/)**  
   _Evaluating the spatial overlay and weighted significance of biological, ecological, and structural features in coastal and oceanic ecosystems._  
   Tech: Satellite telemetry, R, QGIS, Fishing by-catch, MAXENT, MARXAN
-- **[EPICC: Climate Change Impacts on Migratory Species](link-to-repo)**  
+- **[World Oceanografic Trends and Impacts on Migratory Species](link-to-repo)**  
   _Assessing the implications of climate change on sharks and other migratory species in the Eastern Tropical Pacific._  
   Tech: Ecological modeling, remote sensing, R  
 - **[Broad-Scale Movements of Sharks and Rays](link-to-repo)**  
   _Evaluating the migratory patterns of sharks and rays across the Eastern Tropical Pacific Ocean._  
   Tech: Satellite telemetry, R, ArcGIS  
 - **[Population Dynamics of Marine Megafauna](link-to-repo)**  
+  _Studying population dynamics of sharks using 3D stereo-cameras in the Eastern Tropical Pacific._  
+  Tech: R, stereo-BRUVS
+- **[Fishing Dynamics in the Eastern Tropical Pacific Ocean](link-to-repo)**  
   _Studying population dynamics of sharks using 3D stereo-cameras in the Eastern Tropical Pacific._  
   Tech: R, stereo-BRUVS
 
@@ -39,10 +42,10 @@ I’m a Quantitative Marine Scientist passionate about shark conservation, marin
 ---
 
 ## 📝 Recent Publications
-- Peñaherrera-Palma, C.R., et al. (2025). Reconstructing the spatial and temporal dynamics of Ecuador’s nearshore coastal fisheries from fishers’ perspective. PLOS One. [link](https://doi.org/10.1371/journal.pone.0338495)
-- García-Baciero, A., et al. (2025). Comparing the performance of two scientific tools for obtaining fish length measurements. Marine Biology 172. [link](https://doi.org/10.1007/s00227-025-04682-9)
-- Peñaherrera-Palma, C., et al. (2025). Short-term fluctuations in hammerhead shark numbers at an aggregation site based on visual census and telemetry data. Environmental Biology of Fishes.
-- Sequeira, A.M.M., et al. (2025). Global tracking of marine megafauna space use reveals how to achieve conservation targets. Science 388, 1086-1097. [link](https://doi.org/10.1126/science.adl0239) 
+- Peñaherrera-Palma, C.R., et al. (2025). *Reconstructing the spatial and temporal dynamics of Ecuador’s nearshore coastal fisheries from fishers’ perspective.* PLOS One. [link](https://doi.org/10.1371/journal.pone.0338495)
+- García-Baciero, A., et al. (2025). *Comparing the performance of two scientific tools for obtaining fish length measurements.* Marine Biology 172. [link](https://doi.org/10.1007/s00227-025-04682-9)
+- Peñaherrera-Palma, C., et al. (2025). *Short-term fluctuations in hammerhead shark numbers at an aggregation site based on visual census and telemetry data.* Environmental Biology of Fishes.
+- Sequeira, A.M.M., et al. (2025). *Global tracking of marine megafauna space use reveals how to achieve conservation targets.* Science 388, 1086-1097. [link](https://doi.org/10.1126/science.adl0239) 
 - Garcia-Rada, E., et al. (2025). *Climate change implications in the suitable habitat of Olive Ridley turtle Lepidochelys olivacea in the Eastern Tropical Pacific.* Marine Environmental Research 207. [Link](https://doi.org/10.1016/j.marenvres.2025.107091)  
 - Mouton, T.L., et al. (2024). *Shortfalls in the protection of Important Shark and Ray Areas undermine shark conservation efforts in the Central and South American Pacific.* Marine Policy 171. [Link](https://doi.org/10.1016/j.marpol.2024.106448)  
 - Womersley, F.C., et al. (2024). *Climate-driven global redistribution of an ocean giant predicts increased threat from shipping.* Nature Climate Change. [Link](https://doi.org/10.1038/s41558-024-02129-5)  
@@ -67,7 +70,9 @@ I’m a Quantitative Marine Scientist passionate about shark conservation, marin
 ---
 
 ## 🌍 Professional Experience
-- **Senior Scientist, MigraMar (2019-Present):** Leading research on shark and ray migrations, marine resource assessments, and conservation priority areas in the Eastern Tropical Pacific.  
+- **Senior Scientist, MigraMar (2019-Present):** Leading research on shark and ray migrations, marine resource assessments, and conservation priority areas in the Eastern Tropical Pacific.
+- **Consultant, Global Fishing Watch (2023-2024):** Advising on relevant oceanographic, environmental, biological, and socioeconomic datasets to enhance marine resource management within the Eastern Tropical Pacific Marine Corridor (CMAR) Marine Protected Areas.   
+- **Consultant, Equilibrio Azul (2022-2023):** Research and analyze coastal blue carbon ecosystems (mangroves) in Latin American countries.  
 - **Science Coordinator, MigraMar (2019-2022):** Coordinated regional research portfolios, fundraising, and science outreach strategies.  
 - **Academic Director, Pontifical Catholic University of Ecuador - Manabí (2017-2019):** Restructured academic programs, taught marine biology courses, and advised on shark conservation policies.  
 - **Associate Researcher, Charles Darwin Foundation (2008-2013):** Conducted shark assessments, trophic modeling, and ecological risk assessments in the Galapagos Marine Reserve.  
